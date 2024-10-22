@@ -1,0 +1,9 @@
+**Admin Login Details**
+
+Username: admin
+Password: codeastro
+
+**User Login Details**
+Username: priyanshu
+Password: Abhi@9045
+
